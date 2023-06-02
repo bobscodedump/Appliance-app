@@ -14,6 +14,12 @@ Storestainable does not just show you the literal cost of the product, but also 
 
 https://expo.dev/@bobbylee/Storestanable?serviceType=classic&distribution=expo-go
 
+# How to run the app:
+
+1. Clone the repo
+2. Use npm i to install the npm packages
+3. Use npm start and scan the QR code using your device (requires Expo Go app)
+
 # Built using: 
 
 React Native, Expo router, Firebase
